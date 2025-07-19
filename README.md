@@ -7,7 +7,7 @@ Tech : HTML & CSS
 
 ### Demo Video
 
-https://drive.google.com/file/d/18UVlrKqqAC74TF0j2i6LHuiXTwXfEZcr/view?t=15
+https://drive.google.com/file/d/1yCp8H91lzxVT40RDawl953VJtx6Gq0rI/view?usp=sharing
 
 ### Screenshots 
 
